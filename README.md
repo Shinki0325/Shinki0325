@@ -1,4 +1,4 @@
-<img align="right" src="https://pic.imgdd.cc/i/033wpbvzyq15bcOntK8fKJ.png" width = "230" height = "560" />
+<img align="right" src="https://pic.imgdd.cc/i/033wpbvzyq15bcOntK8fKJ.png" width = "200" height = "493" />
 
 # Nothing is written
 
